@@ -1,0 +1,11 @@
+﻿{
+    "Group": "Payment methods",
+    "FriendlyName": "FONDY Online Payments",
+    "SystemName": "Payments.Fondy",
+    "Version": "1.0.0",
+    "SupportedVersions": ["4.10"],
+    "Author": "DM",
+    "DisplayOrder": 1,
+    "FileName": "Nop.Plugin.Payments.Fondy.dll",
+    "Description": "Extension allow clients make payment with FONDY"
+}
